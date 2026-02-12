@@ -1,0 +1,15 @@
+# Notebooks
+
+This folder contains the full PySpark modeling pipeline.
+
+Main file:
+- `v50_end_to_end_model.ipynb`
+
+The notebook includes:
+- Data preparation
+- Feature engineering
+- Binary model training
+- Multi-class product prediction
+- Temporal validation
+- Holdout scoring
+-Marketing descriptive analysis
